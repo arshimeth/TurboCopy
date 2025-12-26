@@ -14,15 +14,13 @@ Designed to replace the standard Windows copy handler, TurboCopy offers multi-th
 
 🚀 Turbo (Unleashed): Uses aggressive multi-threading (/MT:32). Maximizes CPU and Disk usage for the fastest possible transfer.
 
-🌍 Multi-Language Support:
-
-Supports 8 Languages: English, Turkish, Arabic, Italian, Japanese, French, Russian, and Chinese.
+🌍 Multi-Language Support: Supports 8 Languages: English, Turkish, Arabic, Italian, Japanese, French, Russian, and Chinese.
 
 🖱️ Drag & Drop: Easily drag folders from your desktop directly into the Source and Destination fields.
 
 📂 Context Menu Integration: Adds a "Copy with TurboCopy" option to the Windows Right-Click menu for instant access.
 
-### 🛡️ Smart Conflict Resolution:
+🛡️ Smart Conflict Resolution:
 
 Overwrite: Force copy everything.
 
@@ -42,14 +40,14 @@ Auto-Kill: Instantly terminates background Robocopy processes when the app is cl
 
 ## 📦 Installation
 
-Option 1: Installer (Recommended)
+#### Option 1: Installer (Recommended)
 Download the latest TurboCopy_Setup.exe from the Releases page.
 
 Run the installer (requires Administrator privileges to register the Context Menu).
 
 Right-click any folder and select Copy with TurboCopy.
 
-Option 2: Portable
+#### Option 2: Portable
 Download turbocopy.exe.
 
 Run it directly. Note: Context menu integration requires the Setup version.
