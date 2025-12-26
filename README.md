@@ -40,7 +40,7 @@ Auto-Kill: Instantly terminates background Robocopy processes when the app is cl
 
 ## 📦 Installation
 
-#https://github.com/arshimeth/TurboCopy/releases# Option 1: Installer (Recommended)
+Option 1: Installer (Recommended)
 Download the latest TurboCopy_Setup.exe from the Releases page.
 
 Run the installer (requires Administrator privileges to register the Context Menu).
