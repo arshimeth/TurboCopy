@@ -1,10 +1,10 @@
-🚀 TurboCopy
+## 🚀 TurboCopy
 
 TurboCopy is a modern, high-performance file transfer utility for Windows. It acts as a powerful GUI wrapper for the native Robocopy engine, combining command-line speed with ease of use.
 
 Designed to replace the standard Windows copy handler, TurboCopy offers multi-threaded transfers, drag-and-drop support, and smart conflict resolution in a sleek dark-mode interface.
 
-✨ Key Features
+## ✨ Key Features
 
 ⚡ 3 Speed Modes (Gear System):
 
