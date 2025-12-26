@@ -18,13 +18,11 @@ Designed to replace the standard Windows copy handler, TurboCopy offers multi-th
 
 Supports 8 Languages: English, Turkish, Arabic, Italian, Japanese, French, Russian, and Chinese.
 
-
-
 🖱️ Drag & Drop: Easily drag folders from your desktop directly into the Source and Destination fields.
 
 📂 Context Menu Integration: Adds a "Copy with TurboCopy" option to the Windows Right-Click menu for instant access.
 
-🛡️ Smart Conflict Resolution:
+#### 🛡️ Smart Conflict Resolution:
 
 Overwrite: Force copy everything.
 
@@ -42,7 +40,7 @@ Auto-Kill: Instantly terminates background Robocopy processes when the app is cl
 
 🔌 Auto-Shutdown: Optional feature to shut down the computer automatically after a large transfer is complete.
 
-📦 Installation
+## 📦 Installation
 
 Option 1: Installer (Recommended)
 Download the latest TurboCopy_Setup.exe from the Releases page.
