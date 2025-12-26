@@ -51,3 +51,7 @@ Option 2: Portable
 Download turbocopy.exe.
 
 Run it directly. Note: Context menu integration requires the Setup version.
+
+# 🎁 Support
+If you find TurboCopy useful and want to support its development, you can send a Steam Trade Offer. Any support (Skins, Cases, Trading Cards) is greatly appreciated!
+  **Steam Trade URL:** `https://steamcommunity.com/tradeoffer/new/?partner=856438463&token=BmjqXOfQ`
