@@ -22,7 +22,7 @@ Supports 8 Languages: English, Turkish, Arabic, Italian, Japanese, French, Russi
 
 📂 Context Menu Integration: Adds a "Copy with TurboCopy" option to the Windows Right-Click menu for instant access.
 
-#### 🛡️ Smart Conflict Resolution:
+### 🛡️ Smart Conflict Resolution:
 
 Overwrite: Force copy everything.
 
